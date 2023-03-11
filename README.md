@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+```
+const Me = {
+  name: 'Alejandro Muñoz',
+  rockstarName: 'astroboyReloaded',
+  stack: {
+    frontEnd: ['Vanilla JavaScript', 'ES6', 'React.js', 'Pugg.js', 'Markdown.js'],
+    backEnd: ['Node.js', 'Express.js', 'MongoDb']
+    },
+  professionalInterests: ['Web3', 'DeFi', 'UI/UX'],
+  hobbies: ['DJ', 'trading', 'nature', 'travel & taste']
+}
+```
+
 <!--
 **astroboyReloaded/astroboyReloaded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
