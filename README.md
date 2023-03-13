@@ -6,10 +6,10 @@ const Me = {
   rockstarName: 'astroboyReloaded',
   stack: {
     frontEnd: ['Vanilla JavaScript', 'ES6', 'React.js', 'Pugg.js', 'Markdown.js'],
-    backEnd: ['Node.js', 'Express.js', 'MongoDb']
+    backEnd: ['Node.js', 'Express.js', 'MongoDb'],
     },
   professionalInterests: ['Web3', 'DeFi', 'UI/UX'],
-  hobbies: ['DJ', 'trading', 'nature', 'travel & taste']
+  hobbies: ['DJ', 'trading', 'nature', 'travel & taste'],
 }
 ```
 
