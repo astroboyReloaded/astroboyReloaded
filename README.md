@@ -12,7 +12,7 @@ const Me = {
   hobbies: ['DJ', 'trading', 'nature', 'travel & taste'],
 }
 ```
-
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=astroboyReloaded)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **astroboyReloaded/astroboyReloaded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
