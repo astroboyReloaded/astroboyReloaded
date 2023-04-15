@@ -2,7 +2,7 @@
 
   <img width="215px" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="Dev Quote Card" />
 
-```
+```js
 const Me = {
   name: 'Alejandro Muñoz',
   rockstarName: 'astroboyReloaded',
