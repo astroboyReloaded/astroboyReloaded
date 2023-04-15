@@ -7,7 +7,7 @@ const Me = {
   name: 'Alejandro Muñoz',
   rockstarName: 'astroboyReloaded',
   stack: {
-    frontEnd: ['Vanilla JavaScript', 'ES6', 'React.js', 'Pugg.js', 'Markdown.js'],
+    frontEnd: ['JavaScript', 'ES6', 'React', 'Redux'],
     backEnd: ['Node.js', 'Express.js', 'MongoDb'],
     },
   professionalInterests: ['Web3', 'DeFi', 'UI/UX'],
