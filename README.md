@@ -7,8 +7,8 @@ const Me = {
   name: 'Alejandro Muñoz',
   rockstarName: 'astroboyReloaded',
   stack: {
-    frontEnd: ['JavaScript', 'ES6/ES7', 'React', 'Redux', Pug.js, Marked.js, Webpack, SCSS, Bootstrap],
-    backEnd: ['Node', 'Express', 'MongoDB', PostgreSQL],
+    frontEnd: ['JavaScript', 'ES6/ES7', 'React', 'Redux', 'Pug.js', 'Marked.js', 'Webpack', 'SCSS', 'Bootstrap'],
+    backEnd: ['Node', 'Express', 'MongoDB', 'PostgreSQL'],
     },
   professionalInterests: ['Web3', 'DeFi', 'UI/UX'],
   hobbies: ['DJ', 'trading', 'nature', 'travel & taste'],
