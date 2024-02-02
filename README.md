@@ -1,19 +1,18 @@
 ### Hi there 👋
 
-  <img width="215px" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="Dev Quote Card" />
-
 ```js
 const Me = {
   name: 'Alejandro Muñoz',
   rockstarName: 'astroboyReloaded',
   stack: {
-    frontEnd: ['JavaScript', 'ES6/ES7', 'React', 'Redux', 'Pug.js', 'Marked.js', 'Webpack', 'SCSS', 'Bootstrap'],
+    frontEnd: ['JavaScript/TypeScript', 'ES6/ES7', 'React', 'Redux', 'Pug.js', 'Marked.js', 'Webpack', 'SCSS', 'Bootstrap'],
     backEnd: ['Node', 'Express', 'MongoDB', 'PostgreSQL'],
     },
-  professionalInterests: ['Web3', 'DeFi', 'UI/UX'],
+  professionalInterests: ['UI/UX', DataViz, 'Web3', 'DeFi'],
   hobbies: ['DJ', 'trading', 'nature', 'travel & taste'],
 }
 ```
+  <img width="215px" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="Dev Quote Card" />
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=astroboyReloaded&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
